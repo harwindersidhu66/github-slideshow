@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If at first you don’t succeed, …then skydiving is probably NOT for you.
 Use the left arrow to go back!
